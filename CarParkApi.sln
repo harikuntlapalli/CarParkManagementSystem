@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarParkApi", "CarParkApi\CarParkApi.csproj", "{5DDDEC09-E0C0-436D-A129-33517076FF19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarParkManagementSystem", "CarParkManagementSystem\CarParkManagementSystem.csproj", "{0D24D352-D9E3-4316-B831-0312E7775037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDDEC09-E0C0-436D-A129-33517076FF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDDEC09-E0C0-436D-A129-33517076FF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDDEC09-E0C0-436D-A129-33517076FF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDDEC09-E0C0-436D-A129-33517076FF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D24D352-D9E3-4316-B831-0312E7775037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D24D352-D9E3-4316-B831-0312E7775037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D24D352-D9E3-4316-B831-0312E7775037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D24D352-D9E3-4316-B831-0312E7775037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D439C1D4-69E2-4B7F-BA8C-5DE455EFBE57}
+	EndGlobalSection
+EndGlobal
